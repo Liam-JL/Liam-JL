@@ -1,6 +1,6 @@
 Hi I'm Liam.
 
-I am currently a student at AiCore.
+Currently working through [the Odin Project](https://www.theodinproject.com/)
 
 <!---
 LiamJPOS/LiamJPOS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
