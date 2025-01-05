@@ -3,7 +3,7 @@
 I’m an aspiring **Front-End Developer** currently working through the [Meta Front-End Developer Professional Certificate](https://www.coursera.org/professional-certificates/meta-front-end-developer), and [The Odin Project](https://www.theodinproject.com/).
 
 ## 🛠️ Technologies & Tools
-- **Languages:** JavaScript, HTML, CSS, Pyton
+- **Languages:** JavaScript, HTML, CSS, Python
 - **Libraries & Frameworks:** React (currently learning), Node.js
 - **Tools:** Git, GitHub, Visual Studio Code, Chrome DevTools, Figma (for design)
 
