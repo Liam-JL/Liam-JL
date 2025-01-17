@@ -4,13 +4,8 @@ I’m an aspiring **Front-End Developer** currently working through the [Meta Fr
 
 ## 🛠️ Technologies & Tools
 - **Languages:** JavaScript, HTML, CSS, Python
-- **Libraries & Frameworks:** React (currently learning), Node.js
+- **Libraries & Frameworks:** React, Node.js
 - **Tools:** Git, GitHub, Visual Studio Code, Chrome DevTools, Figma (for design)
-
-## 🌱 Learning
-- **React.js**: Learning state management, hooks, and building interactive UIs.
-- **JavaScript Algorithms and Data Structures**: Improving problem-solving and coding skills.
-- **CSS Flexbox & Grid**: Enhancing responsive design skills.
 
 ## 🌐 Connect with Me
 - liam.lirson@gmail.com
