@@ -9,6 +9,7 @@ I’m a **Front-End Developer** currently working through the [Meta Front-End De
 
 ## 🌐 Connect with Me
 - liam.lirson@gmail.com
+- https://www.linkedin.com/in/liam-lirson/
 ---
 
 Feel free to explore my repositories.
