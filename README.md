@@ -1,7 +1,5 @@
 # Hi I'm Liam.👋
 
-I’m a **Front-End React Developer** 
-
 ## 🛠️ Technologies & Tools
 - **Languages:** JavaScript, HTML, CSS, Python
 - **Libraries & Frameworks:** React, Node.js
